@@ -65,12 +65,3 @@
 | Danger Zone Case | [Danger Zone Case](https://steamcommunity.com/market/listings/730/Danger%20Zone%20Case) |
 
 ---
-
-## 🎯 Recomendações rápidas (estratégia)
-- **Hold longo (potencial 5x–50x):** *Glove, Hydra, Bravo, Phoenix, Weapon Case (1/2/3), Shattered Web.*  
-- **Hold médio:** *Prisma 2, Snakebite, Spectrum 2, Clutch.*  
-- **Scalp / Giro:** *Kilowatt, Fever, Gallery, Revolution.*
-
----
-
-## 📋 Lista só com links (pronta para copiar/colar)
