@@ -1,0 +1,2 @@
+# CSGOCase
+Lista de Caixas
