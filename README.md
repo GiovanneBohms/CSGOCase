@@ -1,12 +1,5 @@
 # Lista de Cases por Status de Drop (ordenadas / categorizadas)
 
-> **Legenda**
-> - **DROP ATIVO:** ainda dropando normalmente — alto volume.  
-> - **RARE DROP:** ainda pode cair, porém raridade elevada — bom para acúmulo.  
-> - **DESCONTINUADAS / LEGADO:** não dropam mais — maior potencial de valorização a longo prazo.
-
----
-
 ## 🟢 DROP ATIVO (Pool Atual)
 | Case (ano) | Link |
 |---|---|
@@ -67,7 +60,8 @@
 ---
 
 ## 🟢 DROP ATIVO Skins (Pool Atual)
-[Gallery Case (2024)](https://steamcommunity.com/market/listings/730/Gallery%20Case)
+
+### Gallery Case (2024) | [Gallery Case](https://steamcommunity.com/market/listings/730/Gallery%20Case)
 
 USP-S | 27
 
@@ -96,6 +90,7 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagl
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Calligraffiti%20%28Factory%20New%29
 
 MP5-SD | Statics
+
 https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Statics%20%28Factory%20New%29
 https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Statics%20%28Field-Tested%29
 https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Statics%20%28Minimal%20Wear%29
@@ -147,6 +142,7 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20R8%20Revolver
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20R8%20Revolver%20%7C%20Tango%20%28Factory%20New%29
 
 SCAR-20 | Trail Blazer
+
 https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Trail%20Blazer%20%28Battle-Scarred%29
 https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Trail%20Blazer%20%28Field-Tested%29
 https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Trail%20Blazer%20%28Minimal%20Wear%29
@@ -275,8 +271,8 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Gold%20Toof%20%28Field-Tested%29
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Gold%20Toof%20%28Well-Worn%29
 
-
 M4A1-S | Vaporwave
+
 https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Vaporwave%20%28Factory%20New%29
 https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Vaporwave%20%28Field-Tested%29
 https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Vaporwave%20%28Minimal%20Wear%29
@@ -288,7 +284,7 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Vaporwave%20%28Well-Worn%29
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Vaporwave%20%28Factory%20New%29
 
-[Fever Case](https://steamcommunity.com/market/listings/730/Fever%20Case)
+### Fever Case (2024) | [Fever Case](https://steamcommunity.com/market/listings/730/Fever%20Case)
 
 M4A4 | Choppa
 
@@ -369,6 +365,389 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20N
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Well-Worn%29
 
 XM1014 | Mockingbird
+
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Mockingbird%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Mockingbird%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Mockingbird%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Mockingbird%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Mockingbird%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Mockingbird%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Mockingbird%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Mockingbird%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Mockingbird%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Mockingbird%20%28Factory%20New%29
+
+Desert Eagle | Serpent Strike
+
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Serpent%20Strike%20%28Battle-Scarred%29
+
+Zeus x27 | Tosai
+
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Tosai%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Tosai%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Tosai%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Tosai%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Tosai%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Tosai%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Tosai%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Tosai%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Tosai%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Tosai%20%28Battle-Scarred%29
+
+Nova | Rising Sun
+
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Rising%20Sun%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Rising%20Sun%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Rising%20Sun%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Rising%20Sun%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Rising%20Sun%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Rising%20Sun%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Rising%20Sun%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Rising%20Sun%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Rising%20Sun%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Rising%20Sun%20%28Minimal%20Wear%29
+
+Galil AR | Control
+
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Control%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Control%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Control%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Control%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Control%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Control%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Control%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Control%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Control%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Control%20%28Well-Worn%29
+
+P90 | Wave Breaker
+
+https://steamcommunity.com/market/listings/730/P90%20%7C%20Wave%20Breaker%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/P90%20%7C%20Wave%20Breaker%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/P90%20%7C%20Wave%20Breaker%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/P90%20%7C%20Wave%20Breaker%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/P90%20%7C%20Wave%20Breaker%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P90%20%7C%20Wave%20Breaker%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P90%20%7C%20Wave%20Breaker%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P90%20%7C%20Wave%20Breaker%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P90%20%7C%20Wave%20Breaker%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P90%20%7C%20Wave%20Breaker%20%28Factory%20New%29
+
+AK-47 | Searing Rage
+
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Searing%20Rage%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Searing%20Rage%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Searing%20Rage%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Searing%20Rage%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Searing%20Rage%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Searing%20Rage%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Searing%20Rage%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Searing%20Rage%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Searing%20Rage%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Searing%20Rage%20%28Battle-Scarred%29
+
+Glock-18 | Shinobu
+
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Shinobu%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Shinobu%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Shinobu%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Shinobu%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Shinobu%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Shinobu%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Shinobu%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Shinobu%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Shinobu%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Shinobu%20%28Minimal%20Wear%29
+
+UMP-45 | K.O. Factory
+
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20K.O.%20Factory%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20K.O.%20Factory%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20K.O.%20Factory%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20K.O.%20Factory%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20K.O.%20Factory%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20K.O.%20Factory%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20K.O.%20Factory%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20K.O.%20Factory%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20K.O.%20Factory%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20K.O.%20Factory%20%28Field-Tested%29
+
+FAMAS | Bad Trip
+
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Bad%20Trip%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Bad%20Trip%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Bad%20Trip%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Bad%20Trip%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Bad%20Trip%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Bad%20Trip%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Bad%20Trip%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Bad%20Trip%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Bad%20Trip%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Bad%20Trip%20%28Factory%20New%29
+
+AWP | Printstream
+
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Printstream%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Printstream%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Printstream%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Printstream%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Printstream%20%28Battle-Scarred%29
+
+### Kilowatt Case (2024) | [Kilowatt Case](https://steamcommunity.com/market/listings/730/Kilowatt%20Case)
+
+Dual Berettas | Hideout
+
+https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Hideout%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Hideout%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Hideout%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Hideout%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Hideout%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Hideout%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Hideout%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Hideout%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Hideout%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Hideout%20%28Factory%20New%29
+
+MAC-10 | Light Box
+
+https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Light%20Box%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Light%20Box%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Light%20Box%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Light%20Box%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Light%20Box%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAC-10%20%7C%20Light%20Box%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAC-10%20%7C%20Light%20Box%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAC-10%20%7C%20Light%20Box%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAC-10%20%7C%20Light%20Box%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAC-10%20%7C%20Light%20Box%20%28Field-Tested%29
+
+Nova | Dark Sigil
+
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Dark%20Sigil%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Dark%20Sigil%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Dark%20Sigil%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Dark%20Sigil%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Dark%20Sigil%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Dark%20Sigil%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Dark%20Sigil%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Dark%20Sigil%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Dark%20Sigil%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Dark%20Sigil%20%28Well-Worn%29
+
+SSG 08 | Dezastre
+
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Dezastre%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Dezastre%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Dezastre%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Dezastre%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Dezastre%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dezastre%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dezastre%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dezastre%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dezastre%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dezastre%20%28Factory%20New%29
+
+Tec-9 | Slag
+
+https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Slag%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Slag%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Slag%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Slag%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Slag%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Tec-9%20%7C%20Slag%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Tec-9%20%7C%20Slag%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Tec-9%20%7C%20Slag%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Tec-9%20%7C%20Slag%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Tec-9%20%7C%20Slag%20%28Factory%20New%29
+
+UMP-45 | Motorized
+
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Motorized%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Motorized%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Motorized%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Motorized%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Motorized%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Motorized%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Motorized%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Motorized%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Motorized%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Motorized%20%28Well-Worn%29
+
+XM1014 | Irezumi
+
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Irezumi%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Irezumi%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Irezumi%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Irezumi%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Irezumi%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Irezumi%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Irezumi%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Irezumi%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Irezumi%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Irezumi%20%28Battle-Scarred%29
+
+Glock-18 | Block-18
+
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Block-18%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Block-18%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Block-18%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Block-18%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Block-18%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Block-18%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Block-18%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Block-18%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Block-18%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Block-18%20%28Battle-Scarred%29
+
+M4A4 | Etch Lord
+
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Etch%20Lord%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Etch%20Lord%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Etch%20Lord%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Etch%20Lord%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Etch%20Lord%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Etch%20Lord%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Etch%20Lord%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Etch%20Lord%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Etch%20Lord%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Etch%20Lord%20%28Factory%20New%29
+
+Five-SeveN | Hybrid
+
+https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Hybrid%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Hybrid%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Hybrid%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Hybrid%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Hybrid%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Five-SeveN%20%7C%20Hybrid%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Five-SeveN%20%7C%20Hybrid%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Five-SeveN%20%7C%20Hybrid%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Five-SeveN%20%7C%20Hybrid%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Five-SeveN%20%7C%20Hybrid%20%28Battle-Scarred%29
+
+MP7 | Just Smile
+
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Just%20Smile%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Just%20Smile%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Just%20Smile%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Just%20Smile%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Just%20Smile%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP7%20%7C%20Just%20Smile%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP7%20%7C%20Just%20Smile%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP7%20%7C%20Just%20Smile%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP7%20%7C%20Just%20Smile%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP7%20%7C%20Just%20Smile%20%28Battle-Scarred%29
+
+Sawed-Off | Analog Input
+
+https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Analog%20Input%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Analog%20Input%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Analog%20Input%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Analog%20Input%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Sawed-Off%20%7C%20Analog%20Input%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Sawed-Off%20%7C%20Analog%20Input%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Sawed-Off%20%7C%20Analog%20Input%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Sawed-Off%20%7C%20Analog%20Input%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Sawed-Off%20%7C%20Analog%20Input%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Sawed-Off%20%7C%20Analog%20Input%20%28Battle-Scarred%29
+
+M4A1-S | Black Lotus
+
+https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Black%20Lotus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Black%20Lotus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Black%20Lotus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Black%20Lotus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Black%20Lotus%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Black%20Lotus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Black%20Lotus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Black%20Lotus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Black%20Lotus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Black%20Lotus%20%28Well-Worn%29
+
+Zeus x27 | Olympus
+
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Olympus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Olympus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Olympus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Olympus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/Zeus%20x27%20%7C%20Olympus%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Olympus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Olympus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Olympus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Olympus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Zeus%20x27%20%7C%20Olympus%20%28Well-Worn%29
+
+USP-S | Jawbreaker
+
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Jawbreaker%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Jawbreaker%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Jawbreaker%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Jawbreaker%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Jawbreaker%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20Jawbreaker%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20Jawbreaker%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20Jawbreaker%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20Jawbreaker%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20Jawbreaker%20%28Well-Worn%29
+
+AWP | Chrome Cannon
+
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Chrome%20Cannon%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Chrome%20Cannon%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Chrome%20Cannon%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Chrome%20Cannon%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Chrome%20Cannon%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20%28Well-Worn%29
+
+AK-47 | Inheritance
+
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Inheritance%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Inheritance%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Inheritance%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Inheritance%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Inheritance%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Inheritance%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Inheritance%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Inheritance%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Inheritance%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Inheritance%20%28Well-Worn%29
+
+Revolution Case (2023) | [Revolution Case](https://steamcommunity.com/market/listings/730/Revolution%20Case)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
