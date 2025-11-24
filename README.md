@@ -67,6 +67,7 @@
 ---
 
 ## 🟢 DROP ATIVO Skins (Pool Atual)
+[Gallery Case (2024)](https://steamcommunity.com/market/listings/730/Gallery%20Case)
 
 USP-S | 27
 
@@ -287,30 +288,87 @@ https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Vaporwave%20%28Well-Worn%29
 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Vaporwave%20%28Factory%20New%29
 
+[Fever Case](https://steamcommunity.com/market/listings/730/Fever%20Case)
 
+M4A4 | Choppa
 
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Choppa%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Choppa%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Choppa%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Choppa%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Choppa%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Choppa%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Choppa%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Choppa%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Choppa%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Choppa%20%28Factory%20New%29
 
+MAG-7 | Resupply
 
+https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Resupply%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Resupply%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Resupply%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Resupply%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Resupply%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAG-7%20%7C%20Resupply%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAG-7%20%7C%20Resupply%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAG-7%20%7C%20Resupply%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAG-7%20%7C%20Resupply%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MAG-7%20%7C%20Resupply%20%28Factory%20New%29
 
+SSG 08 | Memorial
 
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Memorial%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Memorial%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Memorial%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Memorial%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Memorial%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Memorial%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Memorial%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Memorial%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Memorial%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Memorial%20%28Well-Worn%29
 
+P2000 | Sure Grip
 
+https://steamcommunity.com/market/listings/730/P2000%20%7C%20Sure%20Grip%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/P2000%20%7C%20Sure%20Grip%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/P2000%20%7C%20Sure%20Grip%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/P2000%20%7C%20Sure%20Grip%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/P2000%20%7C%20Sure%20Grip%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Sure%20Grip%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Sure%20Grip%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Sure%20Grip%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Sure%20Grip%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Sure%20Grip%20%28Factory%20New%29
 
+USP-S | PC-GRN
 
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20PC-GRN%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20PC-GRN%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20PC-GRN%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20PC-GRN%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/USP-S%20%7C%20PC-GRN%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20PC-GRN%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20PC-GRN%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20PC-GRN%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20PC-GRN%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20USP-S%20%7C%20PC-GRN%20%28Field-Tested%29
 
+MP9 | Nexus
 
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Nexus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Nexus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Nexus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Nexus%20%28Well-Worn%29
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Nexus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Field-Tested%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Battle-Scarred%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Factory%20New%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Minimal%20Wear%29
+https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20MP9%20%7C%20Nexus%20%28Well-Worn%29
 
-
-
-
-
-
-
-
-
-
-
-
+XM1014 | Mockingbird
 
 
 
